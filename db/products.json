@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2df85af6-c0a3-4d38-b7a3-6c924752c4b6",
+    "title": "Producto de prueba 2",
+    "description": "Descripción del producto de prueba 2",
+    "price": 25.5,
+    "thumbnail": [
+      "https://ejemplo.com/imagen4.jpg",
+      "https://ejemplo.com/imagen5.jpg",
+      "https://ejemplo.com/imagen6.jpg"
+    ],
+    "code": "DEF456",
+    "stock": 15,
+    "category": "productos de prueba",
+    "status": true
+  },
+  {
+    "id": "45bd32ac-e439-4f9c-b07f-4fca303ce60b",
+    "title": "Producto de prueba 1",
+    "description": "Descripción del producto de prueba 1",
+    "price": 10.99,
+    "thumbnail": [
+      "https://ejemplo.com/imagen1.jpg",
+      "https://ejemplo.com/imagen2.jpg",
+      "https://ejemplo.com/imagen3.jpg"
+    ],
+    "code": "ABC123",
+    "stock": 200,
+    "category": "productos de prueba",
+    "status": true
+  }
+]
